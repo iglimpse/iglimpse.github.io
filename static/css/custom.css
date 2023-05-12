@@ -1,4 +1,4 @@
-/* 代码高亮字体 */
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 代码高亮字体 */
 :root {
   --hl-color: #24292e;
   --hl-bg: rgb(246 248 250);
