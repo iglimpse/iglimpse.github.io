@@ -23,7 +23,7 @@
 .hljs-built_in,
 .hljs-name,
 .hljs-tag {
-  color: #00f;
+  color: rgb(224, 221, 50);
 }
 
 .hljs-string,
@@ -50,7 +50,7 @@
 }
 
 .hljs-attr {
-  color: #f00;
+  color: rgb(239, 171, 171);
 }
 
 .hljs-symbol,
